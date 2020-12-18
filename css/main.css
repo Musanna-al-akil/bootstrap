@@ -276,3 +276,37 @@
     .footer-icon:hover {
         color: var(--mainWhite);
     }
+    /* product*/
+
+    .products-categories-underline{
+        height: .2rem;
+        width: 5rem;
+        background: var(--mainYellow);
+    }
+    .products-categories-link{
+        color: var(--mainBlack);
+        text-decoration: none !important;
+    }
+    .products-categories-link:hover{
+        color: var(--mainGrey);
+       
+    }
+    .products-color{
+        width: 1rem;
+        height: 1rem;
+    }
+    .products-color-black{
+        background-color: black;
+    }
+    .products-color-red{
+        background-color: red;
+    }
+    .products-color-blue{
+        background-color: blue;
+    }
+    .products-color-yellow{
+        background-color: yellow;
+}
+    .products-color-green{
+        background-color: green;
+    }
